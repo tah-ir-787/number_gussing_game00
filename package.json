@@ -1,0 +1,19 @@
+{
+  "name": "code_with_tahir_number_gussing_game00",
+  "version": "1.0.1",
+  "description": "in this repository i have create number gussing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhammad tahir",
+  "license": "MIT", 
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
